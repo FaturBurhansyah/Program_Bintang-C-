@@ -1,2 +1,2 @@
-# Program_Bintang-C-
+# Program C++
 Teruslah Belajar jangan mudah menyerah
